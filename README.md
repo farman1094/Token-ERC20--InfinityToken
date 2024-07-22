@@ -13,7 +13,8 @@ Foundry consists of:
 
 https://book.getfoundry.sh/
 
-## Usage
+## Deployed
+Contract Address: 0xD6585B9ebbA9AAE5e488c65FE881aDc2e52d1AE5 (Sepoia)
 
 ### Build
 
